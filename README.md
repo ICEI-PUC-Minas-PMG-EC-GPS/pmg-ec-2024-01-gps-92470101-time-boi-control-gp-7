@@ -1,19 +1,17 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=14228559&assignment_repo_type=AssignmentRepo)
 ![ICEI](images/icei-pucminas.png)
 
-# Nome do projeto
+# Boi Control
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O AgroSmart Cattle Management System é uma plataforma inovadora destinada a revolucionar o gerenciamento de gado por meio da automação e análise de dados. Utilizando tecnologias emergentes, este sistema tem como objetivo melhorar a eficiência das operações diárias da fazenda, assegurando a saúde e maximizando a produtividade do gado. As funcionalidades incluem monitoramento em tempo real, alertas de saúde, rastreamento nutricional e análises preditivas para suportar decisões baseadas em dados, contribuindo para uma agricultura mais sustentável e lucrativa.
 
 > Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* [Jorge Inácio de Oliveira](https://github.com/inaciooow)
+* [Matheus Melgaço Barroso](https://github.com/matheusmelgaco)
+* [Ricardo Cardoso Alencar](https://github.com/Ricardo-alencar65)
 
 ## Professor responsável
 
