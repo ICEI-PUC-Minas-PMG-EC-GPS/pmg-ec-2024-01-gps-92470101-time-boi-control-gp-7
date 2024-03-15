@@ -31,62 +31,46 @@
 
 # Introdução
 
+O setor agropecuário enfrenta desafios significativos que impactam a eficiência e a produtividade das fazendas. Entre esses desafios, destacam-se a gestão eficaz do gado, o monitoramento da saúde animal, a alimentação adequada e o controle da produtividade. A falta de ferramentas tecnológicas avançadas para o gerenciamento de fazendas limita a capacidade dos produtores rurais de responder de maneira rápida e eficaz a esses desafios, afetando não só a saúde e o bem-estar dos animais, mas também a lucratividade do negócio.
+
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+A ausência de um sistema integrado para o gerenciamento eficiente do gado nas fazendas resulta em dificuldades de acompanhamento e controle da saúde, alimentação e produtividade dos animais. Isso não apenas compromete o bem-estar animal, mas também reduz a eficiência operacional e a rentabilidade das fazendas. Além disso, a falta de dados precisos e em tempo real sobre cada animal dificulta a tomada de decisões baseada em informações concretas, o que pode levar a intervenções tardias em questões de saúde ou a ineficiências na gestão dos recursos da fazenda.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Objetivo Geral:**
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Desenvolver um sistema de gerenciamento de gado para fazendas, denominado Boi Control, que utilize tecnologias inovadoras para otimizar as operações diárias, melhorar o monitoramento da saúde, da alimentação e da produtividade do gado, e suportar decisões agrícolas baseadas em dados.
 
- 
+**Objetivos Específicos:**
+
+1. Implementar funcionalidades para o monitoramento em tempo real da saúde e da alimentação do gado, utilizando sensores e dispositivos IoT.
+2. Desenvolver uma interface de usuário intuitiva para permitir que os fazendeiros acompanhem a produtividade e o bem-estar de cada animal.
+3. Integrar análises de dados e relatórios para facilitar a tomada de decisões baseadas em informações precisas e atualizadas.
+4. Avaliar o impacto da implementação do sistema nas operações da fazenda, na eficiência produtiva e na rentabilidade.
+
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para
-realizar as especificações do projeto.
+O Boi Control será desenvolvido com o foco em atender às necessidades específicas do setor agropecuário, incorporando tecnologias de ponta para a gestão eficiente do gado. Este sistema abrangerá funcionalidades críticas como monitoramento em tempo real, gestão de alimentação e saúde, análise de produtividade, e suporte à tomada de decisão baseada em dados. Utilizaremos estudos de caso, ferramentas de gerenciamento agrícola e consultas a especialistas para garantir que nosso sistema seja tanto teoricamente sólido quanto praticamente aplicável.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+1. Implementação eficaz de funcionalidades de monitoramento em tempo real para saúde e alimentação do gado.
+2. Aumento na eficiência operacional das fazendas usuárias do sistema.
+3. Melhoria no bem-estar e na produtividade do gado, comprovada por dados coletados pelo sistema.
+4. Satisfação dos usuários com a interface e a usabilidade do sistema.
+5. Decisões agrícolas mais informadas e baseadas em dados, resultando em melhor gestão dos recursos e aumento da rentabilidade.
 
-> Os critérios de sucesso de um projeto fornecem uma estrutura clara para avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
- 
 ## Histórias de Usuários
 
-......  ATUALIZE AS HISTÓRIAS DE USUÁRIOS ABAIXO (MÍNIMO 20) ......
+| EU COMO...          | QUERO/PRECISO...                                | PARA...                                              |
+|---------------------|-------------------------------------------------|------------------------------------------------------|
+| Fazendeiro          | Monitorar a saúde do meu gado em tempo real     | Intervir prontamente em qualquer problema de saúde   |
+| Gerente de fazenda  | Acompanhar a alimentação do gado                | Garantir uma nutrição adequada e balanceada          |
+| Técnico agropecuário| Acessar relatórios detalhados sobre a produtividade do gado | Identificar áreas para melhoria na gestão da fazenda |
+| Administrador       | Configurar alertas para variações na saúde do gado | Ser notificado imediatamente sobre quaisquer riscos  |
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
-
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-> Seguindo o modelo acima, apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. 
-> As Histórias de Usuário consistem em uma ferramenta importante para a compreensão e elicitação dos requisitos.
-> Defina atores (ou personas), se for o caso, um administrador para criação das histõrias de usuário.
-> As histórias de usuário posteriormente devem ser utilizadas para preenchimento dos Requisitos Funcionais.
->
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
 
 ## Requisitos Preliminares
 
@@ -118,14 +102,20 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 20) ......
+A tabela a seguir apresenta os requisitos funcionais do projeto Boi Control, derivados das histórias de usuários previamente definidas.
 
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID    | Descrição do Requisito                                            | Prioridade |
+|-------|--------------------------------------------------------------------|------------|
+|RF-001 | Permitir o registro de gado no sistema                            | ALTA       |
+|RF-002 | Monitorar em tempo real a saúde do gado através de sensores IoT   | ALTA       |
+|RF-003 | Gerar alertas para variações na saúde ou comportamento do gado    | ALTA       |
+|RF-004 | Oferecer um dashboard com informações detalhadas sobre o gado     | ALTA       |
+|RF-005 | Permitir o cadastro de informações sobre alimentação do gado      | ALTA       |
+|RF-006 | Integrar análise de produtividade do gado                         | MÉDIA      |
+|RF-007 | Permitir a configuração de notificações para o gerente da fazenda | MÉDIA      |
+|RF-008 | Fornecer relatórios de produtividade e saúde do gado              | MÉDIA      |
+|RF-009 | Facilitar a gestão de inventário de alimentos e medicamentos      | MÉDIA      |
+|RF-010 | Suportar a identificação individual de cada animal no sistema     | ALTA       |
 
 ### Requisitos Não Funcionais
 
