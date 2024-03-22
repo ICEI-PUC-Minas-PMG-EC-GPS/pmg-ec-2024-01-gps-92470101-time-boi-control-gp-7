@@ -74,103 +74,79 @@ O Boi Control será desenvolvido com o foco em atender às necessidades específ
 
 ## Requisitos Preliminares
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
-
-> Com base nas Histórias de Usuário, enumere os requisitos da sua
-> solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
+> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas.
 
 ### Requisitos Funcionais
 
-A tabela a seguir apresenta os requisitos funcionais do projeto Boi Control, derivados das histórias de usuários previamente definidas.
+A tabela a seguir apresenta os requisitos funcionais do projeto Boi Control, derivados das histórias de usuários.
 
-| ID    | Descrição do Requisito                                            | Prioridade |
-|-------|--------------------------------------------------------------------|------------|
-|RF-001 | Permitir o registro de gado no sistema                            | ALTA       |
-|RF-002 | Monitorar em tempo real a saúde do gado através de sensores IoT   | ALTA       |
-|RF-003 | Gerar alertas para variações na saúde ou comportamento do gado    | ALTA       |
-|RF-004 | Oferecer um dashboard com informações detalhadas sobre o gado     | ALTA       |
-|RF-005 | Permitir o cadastro de informações sobre alimentação do gado      | ALTA       |
-|RF-006 | Integrar análise de produtividade do gado                         | MÉDIA      |
-|RF-007 | Permitir a configuração de notificações para o gerente da fazenda | MÉDIA      |
-|RF-008 | Fornecer relatórios de produtividade e saúde do gado              | MÉDIA      |
-|RF-009 | Facilitar a gestão de inventário de alimentos e medicamentos      | MÉDIA      |
-|RF-010 | Suportar a identificação individual de cada animal no sistema     | ALTA       |
+| ID    | Descrição do Requisito                                              | Prioridade |
+|-------|----------------------------------------------------------------------|------------|
+|RF-001 | Permitir o registro de gado no sistema                              | ALTA       |
+|RF-002 | Monitorar em tempo real a saúde do gado através de sensores IoT     | ALTA       |
+|RF-003 | Gerar alertas para variações na saúde ou comportamento do gado      | ALTA       |
+|RF-004 | Oferecer um dashboard com informações detalhadas sobre o gado       | ALTA       |
+|RF-005 | Permitir o cadastro de informações sobre alimentação do gado        | ALTA       |
+|RF-006 | Integrar análise de produtividade do gado                           | MÉDIA      |
+|RF-007 | Permitir a configuração de notificações para o gerente da fazenda   | MÉDIA      |
+|RF-008 | Fornecer relatórios de produtividade e saúde do gado                | MÉDIA      |
+|RF-009 | Facilitar a gestão de inventário de alimentos e medicamentos        | MÉDIA      |
+|RF-010 | Suportar a identificação individual de cada animal no sistema       | ALTA       |
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+A tabela a seguir apresenta os requisitos não funcionais do projeto Boi Control.
 
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
-
+| ID     | Descrição do Requisito                                             | Prioridade |
+|--------|---------------------------------------------------------------------|------------|
+|RNF-001 | O sistema deve ser responsivo e acessível em dispositivos móveis   | ALTA       |
+|RNF-002 | O tempo de resposta para as funcionalidades críticas deve ser inferior a 2 segundos | ALTA |
+|RNF-003 | Deve garantir a segurança dos dados através de criptografia e autenticação segura | ALTA |
+|RNF-004 | O sistema deve ser capaz de operar 24/7, com uma disponibilidade de 99,9% | ALTA     |
+|RNF-005 | Deve oferecer uma interface intuitiva e fácil de usar, com um design agradável | MÉDIA    |
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
+A tabela a seguir apresenta as restrições do projeto Boi Control.
 
-A tabela a seguir apresenta as restrições do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID    | Descrição da Restrição                                              | Impacto   |
+|-------|----------------------------------------------------------------------|-----------|
+|RE-001 | O sistema deve ser implementado dentro de 6 meses                    | ALTA      |
+|RE-002 | O orçamento para o desenvolvimento não deve exceder R$ 100.000,00    | ALTA      |
+|RE-003 | A solução deve ser compatível com as principais plataformas móveis (iOS e Android) | MÉDIA  |
+|RE-004 | Deve-se utilizar apenas tecnologias de código aberto para o desenvolvimento | MÉDIA  |
+|RE-005 | A equipe de desenvolvimento é composta por no máximo 5 membros       | MÉDIA     |
 
 # Partes Interessadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A identificação das partes interessadas é essencial para o sucesso do projeto Boi Control. Abaixo estão listadas as principais partes interessadas, suas expectativas, nível de influência e importância para o projeto:
 
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
+- **Fazendeiros (Clientes)**: Buscam melhorias na gestão do gado e aumento da produtividade. Alto nível de influência e importância.
+- **Desenvolvedores do Sistema**: Responsáveis pela criação e manutenção do Boi Control. Médio nível de influência, alta importância.
+- **Fornecedores de Hardware e IoT**: Provedores das tecnologias necessárias para monitoramento do gado. Médio nível de influência, média importância.
+- **Especialistas em Agropecuária**: Consultores para as funcionalidades e precisão dos dados. Baixo nível de influência, alta importância para a validação do conteúdo.
+- **Investidores**: Fornecem os recursos financeiros necessários. Alto nível de influência e importância para a viabilidade do projeto.
+- **Órgãos Reguladores**: Garantem que o sistema esteja em conformidade com as normas agropecuárias. Baixo nível de influência, média importância.
 
 # Estimativa de Custo e Prazo
 
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
+A seguir, apresenta-se uma estimativa preliminar dos custos associados ao desenvolvimento e implementação do sistema Boi Control. Os valores são hipotéticos e servem como uma base para a elaboração do orçamento.
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+| Item de Custo            | Descrição                        | Qtd. horas | Valor / hora (R$) | Valor total (R$) |
+|--------------------------|----------------------------------|------------|-------------------|------------------|
+| Recursos Humanos         | Desenvolvedores, designers, etc. | 1200       | 50                | 60.000           |
+| Hardware                 | Sensores IoT, servidores, etc.   | N/A        | N/A               | 20.000           |
+| Serviços de Rede         | Internet, VPN, etc.              | N/A        | N/A               | 5.000            |
+| Hospedagem e Nuvem       | AWS, Google Cloud, etc.          | N/A        | N/A               | 15.000           |
+| Software de terceiros    | Licenças de software             | N/A        | N/A               | 10.000           |
+| Serviços e treinamento   | Capacitação da equipe            | N/A        | N/A               | 8.000            |
+| **Total Geral**          |                                  |            |                   | **118.000**      |
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+### Notas:
+- Os valores acima são estimativas e podem variar conforme o avanço do projeto e a obtenção de orçamentos mais detalhados.
+- A estimativa de custo não inclui despesas pós-implementação, como manutenção contínua e atualizações do sistema.
 
 
 ## Estimativa de Prazo
