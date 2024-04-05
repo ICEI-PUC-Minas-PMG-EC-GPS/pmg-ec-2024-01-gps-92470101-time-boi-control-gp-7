@@ -60,7 +60,8 @@
 > Devem ser fornecidos insights mensais sobre o andamento do projeto (últimos 30 dias).
 
 **Insight - Mês Março**
-![Insight - Mês Fevereiro](images/insights.png)
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-boi-control-gp-7/assets/80228517/5dfd326c-1e14-41b6-9842-42b6c4a5e217)
+
 
 **Insight - Mês Abril**
 > Adicione aqui insights do mês de Abril.
