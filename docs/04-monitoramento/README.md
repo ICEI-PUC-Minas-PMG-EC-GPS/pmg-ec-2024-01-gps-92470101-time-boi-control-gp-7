@@ -36,7 +36,7 @@
 
 1. [2024-02-23 - Ata de Reunião](artefatos/ata-reuniao_2024-02-23.pdf)
 2. [2024-03-01 - Ata de Reunião](artefatos/ata-reuniao_2024-03-01.pdf)
-3. ....
+3. [2024-05-03 - Ata de Reunião](artefatos/ata-reuniao_2024-05-03.pdf)
 
 # Relatórios de Desempenho
 
@@ -64,7 +64,8 @@
 
 
 **Insight - Mês Abril**
-> Adicione aqui insights do mês de Abril.
+![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-boi-control-gp-7/assets/80228517/38e3b3c9-ceb7-48e5-8bfb-d14ce42ae340)
+
 
 **Insight - Mês Maio**
 > Adicione aqui insights do mês de Maio.
