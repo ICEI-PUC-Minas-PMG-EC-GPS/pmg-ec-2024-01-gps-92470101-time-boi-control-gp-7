@@ -111,4 +111,4 @@ O plano de gestão de recursos humanos do projeto é um documento essencial que 
 ## Plano de Gerenciamento de Riscos
 
 > Acesse o link abaixo:
-- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
+- [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.xls)
