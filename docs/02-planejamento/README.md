@@ -76,40 +76,39 @@ O plano de gestão de recursos humanos do projeto é um documento essencial que 
 
 # Documentos
 
-> Esta seção deve ser utilizada para armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
-> Atualize os documentos nos respectivos links.
+> Esta é a seção de armazenamento e listagem dos documentos e artefatos produzidos durante as aulas.
 
 ## Aquisição de Produtos
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Declaração de Escopo](artefatos/aquisicao_produtos.docx)
 
 ## Checklist de Qualidade
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Checklist de Qualidade](artefatos/checklist_qualidade.docx)
 
 ## Escopo, Cronograma e Orçamento
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Cronograma e Orçamento do Projeto](artefatos/cronograma_orcamento.pod)
 
 ## Estrutura Analítica do Projeto (EAP)
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Estrutura Analítica do Projeto](artefatos/estrutura_analitica_projeto.wbs)
 
 ## Matriz de Responsabilidades (RACI)
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Declaração de Escopo](artefatos/declaracao-escopo.docx)
 
 ## Plano de Gerenciamento de Comunicação
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Plano de Gerenciamento de Comunicação](artefatos/plano_comunicacao.docx)
 
 ## Plano de Gerenciamento de Riscos
 
-> Você deve preencher o seguinte documento:
+> Acesse o link abaixo:
 - [Plano de Gerenciamento de Riscos](artefatos/plano_riscos.docx)
