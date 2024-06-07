@@ -32,21 +32,7 @@
 
 # Estrutura Analítica do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Estrutura Analítica do Projeto (EAP) proporciona uma representação hierárquica atividades que compõem um projeto. 
-> Organizando o escopo do projeto em componentes gerenciáveis e compreensíveis, a EAP facilita a decomposição do trabalho em partes menores, tornando mais fácil o planejamento, a atribuição de responsabilidades e o monitoramento do progresso. 
-> Cada elemento na estrutura representa uma parcela específica do trabalho a ser realizado, proporcionando clareza sobre as inter-relações entre as diferentes partes do projeto. 
-> A EAP serve como a base para a criação do cronograma do projeto, a alocação de recursos e a identificação de dependências. 
-> Essa abordagem estruturada contribui significativamente para o sucesso do projeto, garantindo uma compreensão abrangente do escopo e uma base sólida para a gestão eficaz do trabalho ao longo do ciclo de vida do projeto.
-
-> **Exemplo de EAP:**
-> ![Exemplo de EAP](images/exemplo_wbs.png)
-
-> Softwares recomendados: 
-> * [WBS Schedule Pro (Demo)](https://www.criticaltools.com/)
-> * [Draw.io](https://app.diagrams.net/)
-> * [ProjectLibre](https://www.projectlibre.com/)
+A Estrutura Analítica do Projeto (EAP) é uma ferramenta chave no gerenciamento de projetos, usada para dividir um projeto em partes menores e mais controláveis. Ela ajuda a definir o escopo completo do projeto, tornando o planejamento, execução e controle das atividades mais eficientes. A EAP organiza o trabalho em uma hierarquia, começando pelo objetivo geral e detalhando até tarefas e entregas específicas. Isso facilita a visualização do trabalho, a alocação de recursos, a estimativa de custos e prazos, além de melhorar a comunicação e coordenação entre todos os envolvidos no projeto.
 
 # Matriz de Responsabilidades
 
