@@ -101,7 +101,7 @@ O plano de gestão de recursos humanos do projeto é um documento essencial que 
 ## Matriz de Responsabilidades (RACI)
 
 > Acesse o link abaixo:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
+- [Declaração de Escopo](artefatos/matriz-raci.docx)
 
 ## Plano de Gerenciamento de Comunicação
 
