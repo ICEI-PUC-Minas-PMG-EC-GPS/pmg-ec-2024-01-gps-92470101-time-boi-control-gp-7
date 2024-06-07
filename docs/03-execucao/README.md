@@ -69,7 +69,7 @@ Essa arquitetura foi escolhida para atender aos objetivos do sistema, consideran
 
 
 > 
-> ![Arquitetura eShopOnContainers](images/arquitetura-solucao)
+> ![Arquitetura eShopOnContainers](images/arquitetura-solucao.png)
 
 
 ## Diagrama de Classes
