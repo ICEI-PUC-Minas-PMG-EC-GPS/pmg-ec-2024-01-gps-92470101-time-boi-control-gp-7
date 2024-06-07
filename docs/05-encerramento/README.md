@@ -16,12 +16,8 @@
 
 # Encerramento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Termo de Encerramento descreve uma a conclusão formal das atividades e entregas planejadas. 
-> Este documento revisa o escopo do projeto em relação ao que foi realmente entregue, documenta o sucesso ou as variações em relação aos objetivos iniciais, e destaca quaisquer pendências ou recomendações para futuros projetos similares. 
-> O Termo de Encerramento também inclui a formalização da aceitação do cliente, a transferência de responsabilidades e ativos, bem como a liberação de recursos da equipe do projeto. 
-
+Este Termo de Encerramento formaliza a conclusão das atividades e entregas planejadas do projeto.
+- [Encerramento do Projeto](05-encerramento/Encerramento_projeto.pdf)
 
 # Lições Aprendidas 
 
@@ -41,15 +37,7 @@
 
 # Auto-avaliação
 
-......  COLOQUE AQUI O SEU TEXTO *(OPCIONAL)* ......
-
-> **Esta seção normalmente não existe em projetos. Foi adicionada neste documento apenas no contexto da disciplina.**
->
-> Nesta seção, cada membro do grupo deve fornecer sua visão individual acerca da disciplina.
-> Indique também as contribuições da disciplina contribuiu para seu crescimento profissional.
-> Avalie seu comprometimento e itens que poderia melhorar.
-> Busque inspiração na filosofia [kaizen](https://pt.wikipedia.org/wiki/Kaizen), para seguir melhorando a cada dia.
-
+Ao concluir este projeto, sentimos uma profunda sensação de realização. Enfrentamos diversos desafios, mas o planejamento detalhado e a flexibilidade nos ajudaram a superá-los. A comunicação interna foi eficaz, embora precisemos de reuniões mais frequentes. O uso do GitHub foi valioso, e a documentação rigorosa e o controle de qualidade foram essenciais, embora revisões mais frequentes sejam necessárias. A gestão de riscos foi eficiente, mas uma análise mais abrangente é necessária. Estamos orgulhosos do que realizamos e confiantes de que as lições aprendidas fortalecerão nossos futuros projetos, melhorando nossa eficiência e eficácia.
 
 # Sugestões e Críticas
 
