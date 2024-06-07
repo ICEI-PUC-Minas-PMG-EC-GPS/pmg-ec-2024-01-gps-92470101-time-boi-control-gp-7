@@ -36,126 +36,43 @@ A Estrutura Analítica do Projeto (EAP) é uma ferramenta chave no gerenciamento
 
 # Matriz de Responsabilidades
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A Matriz de Responsabilidades é uma ferramenta para definir e indicar as responsabilidades de cada membro da equipe em relação às atividades do projeto. 
-> Também conhecida como RACI (Responsável, Aprovador, Consultado e Informado), essa matriz atribui papéis específicos a cada envolvido, indicando quem é responsável pela execução de uma tarefa, quem deve aprovar, quem precisa ser consultado e quem deve ser mantido informado. 
-> Ao criar uma visão visual e estruturada das responsabilidades, a matriz RACI minimiza ambiguidades e conflitos de papel.
-> Essa ferramenta não apenas esclarece as expectativas em termos de contribuições individuais, mas também contribui para um ambiente de trabalho mais organizado e transparente, resultando em uma gestão de projeto mais eficaz e bem-sucedida.
-
-> Informações Adicionais:
-> * **R**esponsible -> Executor (pessoa(s) que executará(ão)/desenvolverá(ão) a atividade)
-> * **A**ccountable -> Responsável (pessoa responsável por aprovar a atividade)
-> * **C**onsulted   -> Consultado (especialista consultado sobre a atividade ou parte dela)
-> * **I**nformed    -> Informado (pessoas interessadas no projeto que devem ser informadas sobre a execução).
-> 
-> Link de auxílio: https://www.forbes.com/advisor/business/raci-chart/
+Uma Matriz de Responsabilidades, também conhecida como Matriz RACI, é uma ferramenta de gerenciamento de projetos que especifica os papéis e responsabilidades dos membros da equipe em relação às diferentes tarefas ou entregas de um projeto. RACI significa Responsible (quem executa a tarefa), Accountable (quem aprova ou toma decisões finais), Consulted (quem é consultado para fornecer informações ou conselhos) e Informed (quem é mantido informado sobre o progresso). Essa matriz elimina ambiguidades, assegurando que todos compreendam suas funções, facilitando a comunicação, a coordenação das atividades e a tomada de decisões, e contribuindo para o êxito do projeto.
 
 # Escopo do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O escopo do projeto define os limites, objetivos e entregáveis do projeto, estabelecendo clareza sobre o que será realizado e o que está excluído do escopo. 
-> O escopo assegura a alocação adequada de recursos, evita desvios dos objetivos do projeto e garante que as expectativas dos stakeholders sejam atendidas. 
-> A definição do escopo inclui documentação detalhada dos requisitos, restrições e premissas do projeto. 
-> Ao longo do ciclo de vida do projeto, a gestão do escopo também inclui o controle de mudanças, garantindo que qualquer ajuste seja avaliado quanto ao seu impacto e aprovado de maneira adequada. 
-
+O escopo do projeto é um documento crucial que descreve detalhadamente todos os objetivos, entregas, tarefas e limitações de um projeto, especificando o trabalho necessário para sua conclusão bem-sucedida. Ele define o que está incluído e excluído do projeto, assegurando que todos os stakeholders compreendam claramente o que será realizado. Esse documento é fundamental para o planejamento, execução e controle das atividades, ajudando a alinhar expectativas, prevenir mudanças não autorizadas e garantir que os recursos sejam utilizados de forma eficiente para alcançar os objetivos estabelecidos.
 
 # Cronograma do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O cronograma do projeto fornece uma representação temporal detalhada de todas as atividades, marcos e eventos ao longo do ciclo de vida do projeto. 
-> Elaborado durante o planejamento, o cronograma é uma ferramenta que oferece uma visão das interdependências entre as tarefas, alocando recursos e definindo prazos para as entregas.
-> Utilizando técnicas como a análise de rede (PERT/CPM) e estimativas de duração, o cronograma ajuda na identificação de caminhos críticos, permitindo aos gestores de projeto otimizar recursos, antecipar potenciais atrasos e tomar decisões. 
-> Além disso, o cronograma serve como um guia para monitorar o progresso, comunicar efetivamente com a equipe e as partes interessadas, e ajustar estratégias para garantir a conclusão bem-sucedida do projeto dentro dos prazos estabelecidos.
+O cronograma do projeto é um documento essencial que organiza todas as atividades e marcos de um projeto em uma linha do tempo detalhada. Ele estabelece prazos específicos para a realização de tarefas e entregas, garantindo que o trabalho seja concluído de maneira ordenada e eficiente. O cronograma permite que a equipe de projeto visualize o progresso, identifique possíveis atrasos e ajuste as atividades conforme necessário para manter o projeto no caminho certo. Além disso, ele serve como uma ferramenta de comunicação importante, ajudando a coordenar esforços e alinhar expectativas entre todos os stakeholders envolvidos.
 
 # Orçamento do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O orçamento do projeto envolve a estimativa e alocação de recursos financeiros necessários para a execução bem-sucedida do projeto, abrangendo custos diretos e indiretos, despesas operacionais, investimentos em equipamentos, pessoal, entre outros. 
-> O desenvolvimento do orçamento deve considerar variáveis como riscos, imprevistos e mudanças no escopo. 
-> Uma vez estabelecido, o orçamento serve como guia para a utilização eficiente dos recursos financeiros ao longo do projeto. 
-> A gestão do orçamento não apenas ajuda a controlar os custos, mas também fornece transparência e prestação de contas, permitindo que gestores tomem decisões informadas e evitem surpresas financeiras ao longo do ciclo de vida do projeto. 
-> Assim, o orçamento contribui para o sucesso do projeto, garantindo a viabilidade econômica e a entrega dentro das expectativas financeiras estabelecidas.
+O orçamento do projeto é um documento fundamental que estima os custos necessários para completar todas as atividades e entregas de um projeto. Ele detalha os recursos financeiros, humanos e materiais requeridos, permitindo uma gestão eficiente dos gastos ao longo do ciclo de vida do projeto. O orçamento inclui uma análise detalhada dos custos diretos e indiretos, reservas para contingências e margem para imprevistos. Este documento é crucial para o planejamento financeiro, ajudando a garantir que o projeto permaneça dentro dos limites financeiros estabelecidos, facilitando a tomada de decisões e a comunicação clara com os stakeholders sobre as necessidades financeiras do projeto.
 
 # Planos de Gerenciamento
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Os planos de gerenciamento do projetos consolidam as diretrizes e estratégias para a execução bem-sucedida de um empreendimento. 
-> Ele abrange diversos aspectos, como escopo, cronograma, custos, riscos, qualidade, recursos humanos, comunicação e aquisições, proporcionando uma visão abrangente e integrada do projeto. 
-> Este plano funciona como um guia mestre que orienta a equipe de projeto e as partes interessadas ao longo do ciclo de vida do projeto, estabelecendo expectativas, responsabilidades e processos. 
-> Além disso, serve como um instrumento de comunicação, alinhando as expectativas entre os membros da equipe e as partes interessadas, mitigando riscos e fornecendo uma estrutura sólida para a tomada de decisões. 
+O orçamento do projeto é um documento detalhado que estima todos os custos necessários para a execução, monitoramento e conclusão de um projeto. Ele abrange todos os aspectos financeiros do planejamento, incluindo custos diretos, indiretos, reservas para contingências e margens para imprevistos. O orçamento do projeto é integrado ao plano geral, alinhando-se com os objetivos e expectativas dos stakeholders. Este documento serve como uma ferramenta estratégica e operacional, orientando a alocação de recursos financeiros, monitorando despesas e ajustando os custos conforme necessário. Além disso, ele estabelece critérios para o controle financeiro, garantindo que o projeto seja concluído dentro do orçamento previsto e com os recursos adequados.
 
 ## Plano de Comunicação
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Comunicação estabelece estratégias e diretrizes para facilitar a troca de informações entre os membros da equipe e as partes interessadas. 
-> Este plano abrange aspectos como os meios de comunicação, a frequência das atualizações, os canais de distribuição de informações e os responsáveis pela comunicação. 
-> Uma comunicação eficiente não apenas previne mal-entendidos e conflitos, mas também fortalece o engajamento da equipe e o apoio das partes interessadas. 
+O plano de comunicação do projeto é um documento essencial que estabelece as estratégias, métodos e ferramentas para garantir uma comunicação eficaz entre todos os stakeholders durante o ciclo de vida do projeto. Ele especifica quais informações serão compartilhadas, quem será responsável por disseminá-las, os destinatários dessas informações, os métodos de comunicação (como reuniões, relatórios, e-mails) e a frequência dessas interações. O objetivo é assegurar que todos os envolvidos estejam bem informados sobre o progresso, mudanças, riscos e outros aspectos importantes do projeto. Isso facilita a colaboração, reduz incertezas e alinha as expectativas, contribuindo para o sucesso do projeto.
 
 ## Plano de Qualidade
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Qualidade auxilia a garantir que as entregas do projeto atendam aos padrões de qualidade definidos. 
-> Este plano abrange atividades como definição de padrões, procedimentos de garantia de qualidade, critérios de aceitação e processos de monitoramento e controle da qualidade ao longo do ciclo de vida do projeto. 
-> Ao identificar metas de qualidade, responsabilidades da equipe, e métricas de avaliação, o Plano de Qualidade busca assegurar que o projeto atinja ou exceda as expectativas dos stakeholders em termos de desempenho e conformidade. 
-> A adoção de políticas de qualidade auxilia a mitigar riscos, promove a confiança nas entregas do projeto e, por fim, aumenta a probabilidade de sucesso do empreendimento. 
-
-> Referência - Conceitual
-> * https://www.researchgate.net/publication/230636169_Software_Quality_Assurance
-
-> Normas de Qualidade:
-> * https://repositorium.uminho.pt/bitstream/1822/27266/1/Tese_MEI_PG19676_Juliana%20Oliveira.pdf
-> * https://cin.ufpe.br/~processos/TAES3/Livro/00-LIVRO/07-Normas%20ISO%20e%20Qualidade%20de%20Software-v6_CORRIGIDO.pdf
-
-> Métricas de software:
-> * https://repositorio.unicamp.br/Busca/Download?codigoArquivo=489087
-> * https://lume.ufrgs.br/bitstream/handle/10183/66095/000870909.pdf?sequence=1
-> * https://www.computerweekly.com/br/tip/23-metricas-de-desenvolvimento-de-software-que-devem-ser-monitoradas
-
-> Processos de Garantia da Qualidade de Software
-> * https://ceur-ws.org/Vol-3200/paper22.pdf
-> * https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6bd60206282a2d4449e414e81a703612ef78a0c
-> * https://www.testbytes.net/blog/quality-assurance-process-methodology/
-> * https://www.projectmanager.com/blog/quality-assurance-and-testing
+O plano de qualidade do projeto é um documento crucial que estabelece os padrões de qualidade para o projeto e descreve como esses padrões serão atingidos e mantidos ao longo do ciclo de vida do projeto. Ele define objetivos de qualidade, critérios de aceitação, responsabilidades e procedimentos de controle e garantia da qualidade, como auditorias, revisões e testes. O plano de qualidade assegura que as entregas do projeto atendam às expectativas dos stakeholders e aos requisitos estabelecidos, prevenindo defeitos e promovendo melhorias contínuas nos processos e resultados. Este documento serve como uma diretriz para manter a consistência, eficiência e eficácia na execução do projeto, contribuindo para a satisfação do cliente e o sucesso geral do empreendimento.
 
 ## Plano de Riscos
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-
-> O plano de riscos busca antecipar, avaliar e mitigar os desafios potenciais que podem surgir ao longo do projeto. 
-> Este documento estratégico oferece uma visão global dos riscos, categorizando-os e delineando estratégias para lidar com cada uma das possíveis adversidades. 
-> Inicialmente, é realizada a identificação detalhada dos riscos, abrangendo desde ameaças imprevistas até oportunidades que podem ser exploradas. 
-> Uma vez catalogados, os riscos são avaliados quanto à sua probabilidade de ocorrência e impacto, permitindo a priorização e foco em áreas críticas.
->
-> O plano de riscos não apenas destaca os perigos em potencial, mas também estabelece respostas e estratégias de contingência. 
-> Isso inclui a definição de ações preventivas para mitigar riscos antes que se materializem, bem como estratégias de mitigação para minimizar seu impacto se ocorrerem. 
-> Além disso, a identificação de pontos de monitoramento contínuo ao longo do projeto permite uma resposta ágil às mudanças nas condições do ambiente.
+O plano de riscos do projeto é um documento essencial que identifica, avalia e define estratégias para gerenciar os riscos que podem afetar o projeto ao longo de seu ciclo de vida. Ele inclui a identificação dos riscos potenciais, a análise qualitativa e quantitativa desses riscos, e o desenvolvimento de planos de resposta apropriados. O plano de riscos também define as responsabilidades, as ferramentas e os procedimentos para monitorar e controlar os riscos, garantindo que sejam tomadas ações preventivas e corretivas conforme necessário. Este documento ajuda a minimizar a probabilidade e o impacto dos riscos negativos, enquanto maximiza as oportunidades positivas, contribuindo para a segurança e o sucesso do projeto.
 
 ## Plano de Aquisição
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Aquisições define o processo relacionado à aquisição de bens e serviços necessários para a execução do projeto. 
-> Este plano abrange a identificação de necessidades, a seleção de fornecedores, a elaboração de contratos, e a gestão do relacionamento com os fornecedores durante do ciclo de vida do projeto. 
-> O Plano de Aquisições visa garantir a aquisição eficiente e eficaz dos recursos necessários, minimizando riscos e custos. 
-> Além disso, ele proporciona transparência nas relações com fornecedores, promovendo a conformidade com os prazos estabelecidos e padrões de qualidade. 
+O plano de aquisição do projeto é um documento fundamental que descreve o processo de identificação, seleção, contratação e gestão dos bens e serviços necessários para o sucesso do projeto. Ele detalha os itens a serem adquiridos, os fornecedores qualificados, os critérios de seleção, os métodos de aquisição (como compra, aluguel ou subcontratação), os cronogramas de aquisição e os termos e condições dos contratos. Além disso, o plano define as responsabilidades da equipe de projeto e dos fornecedores, bem como os procedimentos de monitoramento e controle das aquisições. Isso garante que os recursos sejam obtidos de maneira eficiente, econômica e dentro dos padrões de qualidade exigidos. Este plano é essencial para alinhar todas as aquisições aos objetivos do projeto e gerenciar adequadamente os riscos associados a elas.
 
 ## Plano de Gestão de RH
 
-......  *(OPCIONAL)* COLOQUE AQUI O SEU TEXTO ......
-
-> O Plano de Gestão de Recursos Humanos (RH) estabelece estratégias para o gerenciamento eficaz da equipe.
-> Este plano abrange aspectos como a identificação das necessidades de recursos humanos, a alocação de pessoal, o desenvolvimento de competências, a definição de papéis e responsabilidades, e estratégias de motivação e retenção da equipe. 
-> Este plano visa otimizar o desempenho da equipe, promovendo um ambiente de trabalho colaborativo, em que as habilidades certas estejam disponíveis no momento adequado. 
-> Além disso, aborda a comunicação interna, resolução de conflitos e planos de desenvolvimento profissional. 
-
+O plano de gestão de recursos humanos do projeto é um documento essencial que descreve como os recursos humanos necessários para o projeto serão identificados, adquiridos, desenvolvidos e gerenciados ao longo do ciclo de vida do projeto. Ele inclui a definição de funções e responsabilidades, a criação de um organograma do projeto, a identificação de necessidades de treinamento e desenvolvimento, e as estratégias de motivação e avaliação de desempenho da equipe. Além disso, o plano abrange políticas de comunicação interna, resolução de conflitos e gestão de mudanças no pessoal. Seu objetivo é garantir que o projeto tenha uma equipe qualificada e motivada para alcançar os objetivos estabelecidos, promovendo um ambiente de trabalho produtivo e colaborativo.
 
 # Documentos
 
