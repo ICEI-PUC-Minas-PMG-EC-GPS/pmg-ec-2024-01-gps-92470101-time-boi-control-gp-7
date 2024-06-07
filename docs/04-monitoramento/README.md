@@ -68,11 +68,7 @@
 ![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-boi-control-gp-7/assets/80228517/38e3b3c9-ceb7-48e5-8bfb-d14ce42ae340)
 
 **Insight - Mês Maio**
-![image](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-2024-01-gps-92470101-time-boi-control-gp-7/assets/80228517/38e3b3c9-ceb7-48e5-8bfb-d14ce42ae340)
-
-
-**Insight - Mês Maio**
-> Adicione aqui insights do mês de Maio.
+[Insight-Maio](images/insights-maio.png)
 
 **Insight - Mês Junho**
 > Adicione aqui insights do mês de Junho.
