@@ -17,7 +17,7 @@
 # Encerramento do Projeto
 
 Este Termo de Encerramento formaliza a conclusão das atividades e entregas planejadas do projeto.
-- [Encerramento do Projeto](05-encerramento/Encerramento_projeto.pdf)
+- [Encerramento do Projeto](docs/05-encerramento/Encerramento_projeto.pdf)
 
 # Lições Aprendidas 
 
