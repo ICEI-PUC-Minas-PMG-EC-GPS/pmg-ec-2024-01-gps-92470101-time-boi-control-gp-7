@@ -44,38 +44,37 @@
 
 # Modelagem da Solução
 
-......  COLOQUE AQUI O SEU TEXTO ......
+**Diagrama de Sequência**
+O diagrama de sequência ilustra o fluxo de mensagens e interações entre os objetos do sistema ao longo do tempo para um processo específico, neste caso, o monitoramento da saúde do gado. Ele mostra como o Fazendeiro inicia o processo acessando o sistema para monitorar a saúde de um animal, como o sistema solicita e recebe os dados do animal da classe Gado, e como o Veterinário pode atualizar o status de saúde do animal. Este diagrama é crucial para compreender a lógica de execução do sistema, a sequência de operações e a comunicação entre diferentes componentes, ajudando a identificar possíveis problemas e otimizações no fluxo de trabalho.
 
+![Exemplo de UserFlow](images/DiagramaSequencia.png)
 
-> A modelagem de software envolve a criação de representações abstratas que capturam a estrutura, comportamento e interações do software a ser desenvolvido. 
-> Esses modelos servem como guias visuais que auxiliam na compreensão e comunicação entre os membros da equipe de desenvolvimento. 
-> A modelagem de software abrange diversas técnicas, como diagramas de classes, diagramas de sequência e diagramas de caso de uso, proporcionando uma representação visual clara das relações e funcionalidades do sistema. 
-> Essa abordagem facilita a identificação precoce de requisitos e a detecção de inconsistências. 
-> Além disso, a modelagem contribui para a documentação eficaz, permitindo uma compreensão mais abrangente do software antes mesmo de sua implementação. 
+**Diagrama de Atividades**
+O diagrama de atividades descreve o fluxo de atividades e decisões em um processo específico, neste caso, o gerenciamento da alimentação do gado. Ele detalha as etapas desde o início do processo de alimentação, a verificação do estoque de alimentos, a distribuição da alimentação aos animais, o registro do consumo de alimentos, a geração de relatórios de alimentação e a atualização do histórico de alimentação do gado. Este diagrama é importante para visualizar o fluxo de trabalho, identificar pontos críticos, melhorar a eficiência dos processos e garantir que todas as atividades necessárias sejam executadas corretamente.
 
+![Exemplo de UserFlow](images/diagram-atividades.png)
 
 ## Arquitetura da solução
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+A arquitetura de software define a organização de um sistema, estabelecendo seus componentes e suas relações. Ela orienta as decisões de desenvolvimento, influenciando desempenho, escalabilidade, segurança e manutenibilidade. Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e manutenção do sistema.
 
-> A arquitetura de software define a organização de um sistema, definindo seus componentes e suas relações.
-> Abrange escolhas de design que influenciam aspectos como desempenho, escalabilidade, segurança e manutenibilidade do software. 
-> A arquitetura de software serve como um mapa que orienta as decisões de desenvolvimento, fornecendo uma visão global que facilita a compreensão e a colaboração entre membros da equipe. 
-> Uma arquitetura bem projetada promove a modularidade, facilitando a evolução e a manutenção do sistema ao longo do tempo.
+**Justificativa da Arquitetura**
+-Desempenho: Camadas separadas permitem otimização individual de cada componente.
+-Escalabilidade: A infraestrutura em nuvem suporta crescimento conforme necessário.
+-Segurança: Componentes dedicados à segurança protegem dados e usuários.
+-Manutenibilidade: A modularidade facilita a manutenção e evolução do sistema.
+-Colaboração: Arquitetura clara melhora a comunicação entre a equipe de desenvolvimento.
 
-> Inclua um diagrama da arquitetura do sistema. 
-> Explique e justifique a arquitetura escolhida, com base nos objetivos do sistema, número de usuários esperados, tamanho da aplicação, previsão de expansão do sistema e orçamento do projeto.
+Essa arquitetura foi escolhida para atender aos objetivos do sistema, considerando o número esperado de usuários, o tamanho da aplicação, a previsão
+
+
 > 
-> **Exemplo do diagrama de Arquitetura (Microserviços x Monolítica)**:
-> ![Exemplo Genérico de Arquitetura](images/arquitetura-sistema.png)
->
-> **[Exemplo Arquitetura eShopOnContainers](https://learn.microsoft.com/pt-br/dotnet/architecture/microservices/multi-container-microservice-net-applications/microservice-application-design)**
-> ![Arquitetura eShopOnContainers](images/eshoponcontainers-architecture.png)
+> ![Arquitetura eShopOnContainers](images/arquitetura-solucao)
 
 
 ## Diagrama de Classes
 
-......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE CLASSES .......
+O diagrama de classes fornece uma visão detalhada da estrutura estática do sistema Boi Control, destacando as principais classes, seus atributos, métodos e os relacionamentos entre elas. As classes principais incluem Gado, Fazenda, Veterinario, Relatorio e Alimentacao. A classe Gado, por exemplo, contém atributos como id, nome, data de nascimento, peso e status de saúde, além de métodos para registrar, atualizar o status de saúde e o peso do gado. A classe Fazenda gerencia os dados da fazenda e a associação dos animais. Este diagrama é fundamental para a definição clara da modelagem de dados e para garantir que todas as entidades do sistema estejam bem definidas e integradas.
 
 > O diagrama de classes fornece uma representação visual das estruturas e relações entre as classes em um sistema orientado a objetos. 
 > O diagrama serve como uma documentação visual eficaz, facilitando a compreensão, manutenção e contínua do software.
@@ -85,29 +84,25 @@
 > Caso a solução fique muito grande, divida o diagrama por módulos ou serviços.
 > Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
 >
-> **Exemplo de diagrama de Classes**:
+> **Diagrama de Classes**:
 > ![Exemplo de diagrama de Classes](images/class-diagram.png)
 
 
 ## Persistência dos Dados
 
-......  COLOQUE AQUI O SEU TEXTO E O MODELOS DE DADOS .......
-
-> **Banco de Dados Relacional:**
-> Um diagrama relacional é uma representação gráfica que ilustra as tabelas e as relações entre elas em um banco de dados relacional. 
-> Ele descreve a estrutura do banco de dados, destacando as entidades, seus atributos e as conexões estabelecidas.
->
-> **Banco de Dados No-SQL:**
-> Bancos de dados NoSQL representam uma categoria diversificada de sistemas de gerenciamento de dados que se afastam do modelo relacional tradicional. 
-> Ao contrário dos bancos de dados SQL, os NoSQL adotam abordagens mais flexíveis e escaláveis para armazenar e recuperar dados. 
-> Esses sistemas são particularmente eficazes em lidar com grandes volumes de dados não estruturados ou semiestruturados, como documentos, grafos, pares chave-valor e famílias de colunas.
-> 
-> **Diagrama de Banco de Dados:**
-> Desenvolva um diagrama de banco de dados para o sistema proposto.
-> Indique como as informações serão persistitdas, incluindo nome do banco de dados (ou base de dados) e uso de frameworks de persistências, caso utilizados.
-> Explique de forma concisa o diagrama, para que seja possível entender a solução proposta.
->
-> **Exemplo de diagrama de Banco de Dados**:
-> ![Exemplo de diagrama de Banco de Dados](images/database-diagram.png)
+**Explicação do Diagrama**
+-GADO: Representa os animais da fazenda. Contém atributos como id (PK), nome, dataNascimento, peso, statusSaude e fazenda_id (FK).
+-FAZENDA: Representa as fazendas. Contém atributos como id (PK), nome e localizacao.
+-VETERINARIO: Representa os veterinários. Contém atributos como id (PK), nome, especialidade e contato.
+-ALIMENTACAO: Representa os registros de alimentação dos animais. Contém atributos como id (PK), data, quantidade, tipoAlimento e gado_id (FK).
+-RELATORIO: Representa os relatórios gerados. Contém atributos como id (PK), tipo, dataGeracao, conteudo e gado_id (FK).
+**Conexões**
+-GADO -> FAZENDA: Cada animal pertence a uma fazenda (fazenda_id).
+-GADO -> ALIMENTACAO: Cada animal pode ter múltiplos registros de alimentação (gado_id).
+-GADO -> RELATORIO: Cada animal pode ter múltiplos relatórios (gado_id).
+-FAZENDA -> GADO: Cada fazenda contém múltiplos animais.
+-VETERINARIO -> GADO: Cada veterinário pode monitorar múltiplos animais (veterinario_id).
+> **Diagrama de Banco de Dados**:
+> ![Exemplo de diagrama de Banco de Dados](images/diagram-bd.png)
 
 
