@@ -38,13 +38,11 @@ Fases do Gerenciamento do Projeto:
 
 O trabalho final do 'Boi Control' será apresentado através de um vídeo detalhado, destacando as inovações e funcionalidades do sistema. Este vídeo não só demonstrará a aplicação prática da tecnologia no manejo de gado mas também enfatizará os benefícios trazidos ao setor agropecuário. Será publicado em plataformas de acesso público, como o YouTube, permitindo ampla disseminação das informações e facilidade de acesso para todos os interessados.
 
-> Adicione aqui o vídeo explicativo do trabalho.
-> Utilize a estrutura (link) abaixo para apresentação do vídeo.
-> O vídeo deve ser postado obrigatoriamente de forma pública no Youtube ou qualquer outra plataforma 
+(https://youtu.be/zw79gcB0wp8)
 
 > A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
 
-[![Imagem do Trabalho](images/Boi-Control.png)]([https://www.youtube.com/watch?v=unq_cZ6NOwk](https://www.youtube.com/watch?v=zw79gcB0wp8))
+[![Imagem do Trabalho](images/Boi-Control.png)](https://www.youtube.com/watch?v=zw79gcB0wp8))
 
 ## Informações Adicionais
 
