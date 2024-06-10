@@ -44,7 +44,7 @@ O trabalho final do 'Boi Control' será apresentado através de um vídeo detalh
 
 > A imagem abaixo deve ser substituída por uma capa do vídeo de apresentação do trabalho.
 
-[![Imagem do Trabalho](images/pucminas-video-youtube.jpg)]([https://www.youtube.com/watch?v=unq_cZ6NOwk](https://www.youtube.com/watch?v=zw79gcB0wp8))
+[![Imagem do Trabalho](images/Boi-Control.png)]([https://www.youtube.com/watch?v=unq_cZ6NOwk](https://www.youtube.com/watch?v=zw79gcB0wp8))
 
 ## Informações Adicionais
 
